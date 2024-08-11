@@ -479,4 +479,13 @@ udp://@225.1.3.70:30120
 udp://@225.1.3.135:30120
 #EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
 udp://@225.1.3.143:30120
-
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="🌐" tvg-id="kloopy" tvg-logo="https://i.ibb.co/JR1nZYb/Kaloopy-cc.png",Kaloopy ¹⁸⁺
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/koiq1049gt89pg5/?kaloopy|Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="🌐" tvg-id="midnite" tvg-logo="https://i.ibb.co/P9RdyvY/ccmidnite.png",Midnite ¹⁸⁺
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/jaoc6ag8c8ku3au/ 
