@@ -283,10 +283,6 @@ udp://@225.1.1.236:30120
 udp://@225.1.1.200:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
 udp://@225.1.1.139:30120
-#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
-udp://@225.1.1.201:30120
-#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
-udp://@225.1.1.227:30120
 #-------------------3-------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8.5Mbps)
 udp://@225.1.3.1:30120
@@ -451,8 +447,6 @@ udp://@225.1.3.102:30120
 udp://@225.1.3.100:30120
 #EXTINF:0 tvg-id="cantho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. Cần Thơ (HD 8Mbps)
 udp://@225.1.3.69:30120
-#EXTINF:0 tvg-id="soctrang" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 _ TH Sóc Trăng
-udp://@225.1.3.119:30120
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia (HD 8Mbps)
 udp://@225.1.3.91:30120
 #EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 8Mbps)
@@ -475,10 +469,6 @@ udp://@225.1.3.92:30120
 udp://@225.1.3.85:30120
 #EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie (HD 8Mbps)
 udp://@225.1.3.70:30120
-#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
-udp://@225.1.3.135:30120
-#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
-udp://@225.1.3.143:30120
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTINF:0 type="stream" group-title="🌐" tvg-id="kloopy" tvg-logo="https://i.ibb.co/JR1nZYb/Kaloopy-cc.png",Kaloopy ¹⁸⁺
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1
