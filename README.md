@@ -439,7 +439,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
 
 #EXTINF:-1 tvg-id="manhd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png",Planet Earth
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
+https://thvip.site/360/163/index.m3u8
 
 
 
