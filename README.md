@@ -22,6 +22,57 @@ udp://@225.1.1.128:30120
 udp://@225.1.2.236:30120
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 8Mbps)
 udp://@225.1.1.108:30120
+
+#-------------------THVL-------------------#
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long (HD 8Mbps)
+udp://@225.1.1.155:30120
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
+udp://@225.1.1.154:30120
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long (HD 8Mbps)
+udp://@225.1.1.235:30120
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long (HD 8Mbps)
+udp://@225.1.2.25:30120
+#-------------------NAM BỘ-------------------#
+#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương (HD 8Mbps)
+udp://@225.1.1.150:30120
+#EXTINF:0 tvg-id="binhduong2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH Bình Dương (HD 8Mbps)
+udp://@225.1.1.149:30120
+#EXTINF:0 tvg-id="anvienhd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel (HD 8Mbps)
+udp://@225.1.2.189:30120
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD _ TH Đồng Nai (HD 8Mbps)
+udp://@225.1.1.152:30120
+#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 HD _ TH Đồng Nai (HD 8Mbps)
+udp://@225.1.1.151:30120
+#EXTINF:0 tvg-id="tayninh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh (HD 8Mbps)
+udp://@225.1.1.130:30120
+#EXTINF:0 tvg-id="vungtau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu (HD 8Mbps)
+udp://@225.1.2.175:30120
+#-------------------NAM BỘ-------------------#
+#-------------------MIỀN TÂY-------------------#
+#EXTINF:0 tvg-id="dongthap" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp (HD 8Mbps)
+udp://@225.1.1.163:30120
+#EXTINF:0 tvg-id="" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây (HD 8Mbps)
+udp://@225.1.1.210:30120
+#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang (HD 8Mbps)
+udp://@225.1.2.170:30120
+#EXTINF:0 tvg-id="angiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang (HD 8Mbps)
+udp://@225.1.2.173:30120
+#EXTINF:0 tvg-id="bentre" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre (HD 8Mbps)
+udp://@225.1.1.156:30120
+
+#EXTINF:0 tvg-id="travinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh (HD 8Mbps)
+udp://@225.1.2.172:30120
+#EXTINF:0 tvg-id="haugiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang (HD 8Mbps)
+udp://@225.1.1.157:30120
+#EXTINF:0 tvg-id="kiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang (HD 8Mbps)
+udp://@225.1.2.182:30120
+#EXTINF:0 tvg-id="baclieu" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV HD _ TH Bạc Liêu (HD 8Mbps)
+udp://@225.1.1.61:30120
+#EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH Cà Mau (HD 8Mbps)
+udp://@225.1.1.104:30120
+#EXTINF:0 tvg-id="cantho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. Cần Thơ (HD 8Mbps)
+udp://@225.1.1.132:30120
+#-------------------MIỀN TÂY-------------------#
 #-------------------Thiết yếu-------------------#
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD (HD 8Mbps)
 udp://@225.1.2.169:30120
@@ -233,54 +284,7 @@ udp://@225.1.2.177:30120
 udp://@225.1.2.23:30120
 #EXTINF:0 tvg-id="binhphuoc2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/CyhvaPs.png",BPTV2 HD _ TH Bình Phước (HD 8Mbps)
 udp://@225.1.2.38:30120
-#-------------------THVL-------------------#
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long (HD 8Mbps)
-udp://@225.1.1.155:30120
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
-udp://@225.1.1.154:30120
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long (HD 8Mbps)
-udp://@225.1.1.235:30120
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long (HD 8Mbps)
-udp://@225.1.2.25:30120
-#-------------------NAM BỘ-------------------#
-#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Dương (HD 8Mbps)
-udp://@225.1.1.150:30120
-#EXTINF:0 tvg-id="binhduong2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/LpV0d3Q.png",BTV2 HD _ TH Bình Dương (HD 8Mbps)
-udp://@225.1.1.149:30120
-#EXTINF:0 tvg-id="anvienhd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel (HD 8Mbps)
-udp://@225.1.2.189:30120
-#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ĐNRTV1 HD _ TH Đồng Nai (HD 8Mbps)
-udp://@225.1.1.152:30120
-#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",ĐNRTV2 HD _ TH Đồng Nai (HD 8Mbps)
-udp://@225.1.1.151:30120
-#EXTINF:0 tvg-id="tayninh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh (HD 8Mbps)
-udp://@225.1.1.130:30120
-#EXTINF:0 tvg-id="vungtau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu (HD 8Mbps)
-udp://@225.1.2.175:30120
-#-------------------MIỀN TÂY-------------------#
-#EXTINF:0 tvg-id="dongthap" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 _ TH Đồng Tháp (HD 8Mbps)
-udp://@225.1.1.163:30120
-#EXTINF:0 tvg-id="" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây (HD 8Mbps)
-udp://@225.1.1.210:30120
-#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang (HD 8Mbps)
-udp://@225.1.2.170:30120
-#EXTINF:0 tvg-id="angiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang (HD 8Mbps)
-udp://@225.1.2.173:30120
-#EXTINF:0 tvg-id="bentre" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH Bến Tre (HD 8Mbps)
-udp://@225.1.1.156:30120
 
-#EXTINF:0 tvg-id="travinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh (HD 8Mbps)
-udp://@225.1.2.172:30120
-#EXTINF:0 tvg-id="haugiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang (HD 8Mbps)
-udp://@225.1.1.157:30120
-#EXTINF:0 tvg-id="kiengiang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang (HD 8Mbps)
-udp://@225.1.2.182:30120
-#EXTINF:0 tvg-id="baclieu" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV HD _ TH Bạc Liêu (HD 8Mbps)
-udp://@225.1.1.61:30120
-#EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD _ TH Cà Mau (HD 8Mbps)
-udp://@225.1.1.104:30120
-#EXTINF:0 tvg-id="cantho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. Cần Thơ (HD 8Mbps)
-udp://@225.1.1.132:30120
 #-------------------Quốc tế-------------------#
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia (HD 8Mbps)
 udp://@225.1.2.21:30120
@@ -340,61 +344,6 @@ udp://@225.1.1.236:30120
 udp://@225.1.1.200:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
 udp://@225.1.1.139:30120
-
-#-------------------------VTVcab---------------------------#
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png",ON Vie Giải trí
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/180/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png", ON Phim Việt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/175/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png", On Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/181/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png", ON E- Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/182/index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/18.png", On O2TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/136/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/19.png", On BiBi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/178/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/20.png", ON Info TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/189/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/21.png", ON Cine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/176/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png" catchup="append", ON Style TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/184/index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://khanggtivi.xyz/vuminhthanh/vmt2024/onfootball/index.m3u8
-#EXTINF:0 tvg-id="vtvcab17hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp", ON TRENDING TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/186/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png", ON Vie Dramas
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://thvip.site/360/177/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab20hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp", ON V Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/187/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png", On Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/179/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/30.png", On Life
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/188/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png", ON Golf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/169/index.m3u8
-#EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/0f3eeb2f-1482-4ea5-a42b-68c22266fd38.jpg?auto=format&fit=max&w=640", BTV5 - ON SPORT ACTION
-https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
-#-------------------------VTVcab---------------------------#
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/159/index.m3u8
