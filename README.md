@@ -241,14 +241,14 @@ udp://@225.1.2.233:30120
 udp://@225.1.1.196:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
 udp://@225.1.1.139:30120
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="VIETNAM",Fashion TV UHD
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://cia.lk/wp-content/uploads/2021/09/logo_aje_social.png", Al Jazeera English
 https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/6ffbc43c-98b3-42bf-956f-5b69800acb66/0.m3u8
+#EXTINF:-1 tvg-id="vovtvhd" group-title="VIETNAM" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV HD
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 TR" tvg-logo="http://4.bp.blogspot.com/-QuYMZxfkV2w/WEuNG4TT5KI/AAAAAAAAGHM/mNS0h1Jh2nQJOh3CIjGnO9aMq5vj3gPVQCK4B/s1600/Lig%2Btv%2Bvector%2Blogo.png" group-title="SPORT",BEIN SPORTS 1 TR
 https://tth.vn/BDyP
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 (TEST)" tvg-logo="https://i.pinimg.com/originals/45/a5/e8/45a5e88c74ce6f2da570cbc6e81cdf05.png" group-title="SPORT",SPORT TV 1 (TEST)
-http://pubgamers.net:80/BardhylBaki/TEDn13m6sa/3111
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 (test)" tvg-logo="https://i.pinimg.com/originals/4c/12/99/4c12999c2a7b8dacdeaf5fdb71481811.png" group-title="SPORT",SPORT TV 2 (test)
-http://pubgamers.net:80/BardhylBaki/TEDn13m6sa/3112
 
 
 
