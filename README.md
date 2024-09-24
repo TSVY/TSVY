@@ -245,10 +245,10 @@ udp://@225.1.1.139:30120
 https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/6ffbc43c-98b3-42bf-956f-5b69800acb66/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 TR" tvg-logo="http://4.bp.blogspot.com/-QuYMZxfkV2w/WEuNG4TT5KI/AAAAAAAAGHM/mNS0h1Jh2nQJOh3CIjGnO9aMq5vj3gPVQCK4B/s1600/Lig%2Btv%2Bvector%2Blogo.png" group-title="SPORT",BEIN SPORTS 1 TR
 https://tth.vn/BDyP
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 TR" tvg-logo="http://4.bp.blogspot.com/-QuYMZxfkV2w/WEuNG4TT5KI/AAAAAAAAGHM/mNS0h1Jh2nQJOh3CIjGnO9aMq5vj3gPVQCK4B/s1600/Lig%2Btv%2Bvector%2Blogo.png" group-title="SPORT",BEIN SPORTS 2 TR
-https://tth.vn/QUZt
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TR" tvg-logo="http://4.bp.blogspot.com/-QuYMZxfkV2w/WEuNG4TT5KI/AAAAAAAAGHM/mNS0h1Jh2nQJOh3CIjGnO9aMq5vj3gPVQCK4B/s1600/Lig%2Btv%2Bvector%2Blogo.png" group-title="SPORT",BEIN SPORTS 3 TR
-https://tth.vn/DNfC
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 (TEST)" tvg-logo="https://i.pinimg.com/originals/45/a5/e8/45a5e88c74ce6f2da570cbc6e81cdf05.png" group-title="SPORT",SPORT TV 1 (TEST)
+http://pubgamers.net:80/BardhylBaki/TEDn13m6sa/3111
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 (test)" tvg-logo="https://i.pinimg.com/originals/4c/12/99/4c12999c2a7b8dacdeaf5fdb71481811.png" group-title="SPORT",SPORT TV 2 (test)
+http://pubgamers.net:80/BardhylBaki/TEDn13m6sa/3112
 
 
 
