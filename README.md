@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 TR" tvg-logo="http://4.bp.blogspot.com/-QuYMZxfkV2w/WEuNG4TT5KI/AAAAAAAAGHM/mNS0h1Jh2nQJOh3CIjGnO9aMq5vj3gPVQCK4B/s1600/Lig%2Btv%2Bvector%2Blogo.png" group-title="SPORT",BEIN SPORTS 1 TR
+https://tth.vn/BDyP
 #EXTINF:0 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
 https://tth.vn/ONSPORT-NEWS
 #EXTINF:0 tvg-id="vungtau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vũng Tàu (HD 8Mbps)
