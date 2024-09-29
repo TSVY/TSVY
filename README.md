@@ -4,7 +4,7 @@ udp://@225.1.2.175:30120
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD (HD 8Mbps)
 udp://@225.1.1.192:30120
 #EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD (HD 8Mbps)
-http://antm.dynu.net:14285/rtp/232.84.1.224:9318
+udp://@225.1.1.190:30120
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8Mbps)
 udp://@225.1.2.249:30120
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 8Mbps)
