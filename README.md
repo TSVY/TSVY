@@ -16,7 +16,7 @@ udp://@225.1.1.131:30120
 #EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel (HD 8Mbps)
 udp://@225.1.3.13:30120
 #EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao (HD 8Mbps)
-udp://@225.1.1.165:30120
+udp://@225.1.3.25:30120
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8Mbps)
 udp://@225.1.2.166:30120
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8Mbps)
