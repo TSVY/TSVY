@@ -108,7 +108,7 @@ udp://@225.1.2.88:30120
 #EXTINF:0 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD (HD 8Mbps)
 udp://@225.1.2.190:30120
 #EXTINF:0 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7
-https://thvip.site/360/201/index.m3u8
+https://hqth.me/by0O
 #EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống (HD 8Mbps)
 udp://@225.1.1.166:30120
 #EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://cdn.hqth.me/logo/thumbs/56.png",HTVC Gia Đình (HD 8Mbps)
