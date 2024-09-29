@@ -144,17 +144,13 @@ http://antm.dynu.net:14285/rtp/232.84.3.70:11632
 #EXTINF:0 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV (HD 8Mbps)
 rtp://@232.84.3.74:11608
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt (HD 8Mbps)
-http://antm.dynu.net:14285/rtp/232.84.3.77:11590
-#EXTINF:0 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV (HD 8Mbps)
-http://antm.dynu.net:14285/rtp/232.84.3.71:11626
-#EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV (HD 8Mbps)
-http://antm.dynu.net:14285/rtp/232.84.3.69:11638
+http://antm.dynu.net:14285/rtp/232.84.1.168:8982
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily (HD 8Mbps)
-http://antm.dynu.net:14285/rtp/232.84.3.68:11644
+http://antm.dynu.net:14285/rtp/232.84.1.245:10344
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas (HD 8.5Mbps)
-http://antm.dynu.net:14285/rtp/232.84.3.218:11230
+http://antm.dynu.net:14285/rtp/232.84.1.169:8988
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí (HD 8Mbps)
-http://antm.dynu.net:14285/rtp/232.84.3.78:11584
+http://antm.dynu.net:14285/rtp/232.84.1.143:8832
 #EXTINF:-1 tvg-id="sctv1hd" group-title="🇻🇳| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8?khichtv|Referer=http://sctvonline.vn/
