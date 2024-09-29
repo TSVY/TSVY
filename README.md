@@ -127,30 +127,6 @@ udp://@225.1.1.181:30120
 udp://@225.1.1.178:30120
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 8Mbps)
 udp://@225.1.1.188:30120
-#EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8.5Mbps)
-http://antm.dynu.net:14285/rtp/232.84.3.242:11374
-#EXTINF:0 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi (HD 8.5Mbps)
-http://antm.dynu.net:14285/rtp/232.84.3.217:11224
-#EXTINF:0 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine (HD 8Mbps)
-http://antm.dynu.net:14285/rtp/232.84.3.72:11620
-#EXTINF:0 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON EChannel (HD 8Mbps)
-rtp://@232.84.3.76:11596
-#EXTINF:0 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV (HD 8Mbps)
-http://antm.dynu.net:14285/rtp/232.84.3.73:11614
-#EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies (HD 8.5Mbps)
-http://antm.dynu.net:14285/rtp/232.84.2.190:10924
-#EXTINF:0 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music (HD 8Mbps)
-http://antm.dynu.net:14285/rtp/232.84.3.70:11632
-#EXTINF:0 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV (HD 8Mbps)
-rtp://@232.84.3.74:11608
-#EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt (HD 8Mbps)
-http://antm.dynu.net:14285/rtp/232.84.1.168:8982
-#EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily (HD 8Mbps)
-http://antm.dynu.net:14285/rtp/232.84.1.245:10344
-#EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas (HD 8.5Mbps)
-http://antm.dynu.net:14285/rtp/232.84.1.169:8988
-#EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí (HD 8Mbps)
-http://antm.dynu.net:14285/rtp/232.84.1.143:8832
 #EXTINF:-1 tvg-id="sctv1hd" group-title="🇻🇳| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8?khichtv|Referer=http://sctvonline.vn/
