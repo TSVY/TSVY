@@ -198,6 +198,16 @@ http://is.am/5mf7/khichtivi/k+3/index.m3u8
 http://is.am/5mf8/khichtivi/k+4/index.m3u8
 #EXTINF:0 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7 HD (HD 8.5Mbps)
 http://antm.dynu.net:14285/rtp/232.84.2.151:10726
+#EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies (HD 8.5Mbps)
+http://antm.dynu.net:14285/rtp/232.84.2.190:10924
+#EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt (HD 8Mbps)
+http://antm.dynu.net:14285/rtp/232.84.3.77:11590
+#EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily (HD 8Mbps)
+rtp://@232.84.3.68:11644
+#EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas (HD 8.5Mbps)
+http://antm.dynu.net:14285/rtp/232.84.3.218:11230
+#EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí (HD 8Mbps)
+http://antm.dynu.net:14285/rtp/232.84.3.78:11584
 
 
 
