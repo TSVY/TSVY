@@ -197,9 +197,9 @@ https://tth.vn/ONSPORT-NEWS
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
 https://tth.vn/Qfkr
 #EXTINF:-1  tvg-id="http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1 và https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/i.mpd" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BCINE%20HD.png",K+CINE HD
-http://is.am/5mf7/khichtivi/k+3/index.m3u8
-#EXTINF:-1  tvg-id="http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1 và https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/i.mpd" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BACTION%20HD.png",K+ACTION HD
 http://is.am/5mf8/khichtivi/k+4/index.m3u8
+#EXTINF:-1  tvg-id="http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1 và https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/i.mpd" group-title="KÊNH K+" tvg-logo="https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/K%2BSPORT%202%20HD.png",/K+SPORT 2 HD
+http://is.am/5mf7/khichtivi/k+3/index.m3u8
 #EXTINF:0 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7 HD (HD 8.5Mbps)
 http://antm.dynu.net:14285/rtp/232.84.2.151:10726
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies (HD 8.5Mbps)
