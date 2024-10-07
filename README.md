@@ -204,4 +204,6 @@ https://tth.vn/RcdX
 #EXTINF:-1 tvg-logo="http://gg.gg/GlobalFashionChannel_png" group-title="FASHION",Global Fashion Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=626
 #EXTINF:-1 tvg-logo="https://rebrand.ly/Billiard_Tv/logo/png" group-title="SPORTS", Billiard Tv
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+https://tth.vn/YKaj
+#EXTINF:-1 tvg-logo="http://gg.gg/Sport1plusHD_png" group-title="SPORTS", SPORT1+ (Ori)
+https://tth.vn/YkHo
