@@ -211,8 +211,5 @@ https://kodonolonz.serv00.net/tol/mbut/Sonyten2.m3u8
 https://kodonolonz.serv00.net/tol/mbut/Sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS",Sony Sports 5 HD
 https://kodonolonz.serv00.net/tol/mbut/Sonyten5.m3u8
-#EXTINF:-1 tvg-logo="http://gg.gg/Sport1plusHD_png" group-title="SPORTS", SPORT1+ (Ori)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
-https://p7s1-live-009-prod.akamaized.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
+
 
