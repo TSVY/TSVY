@@ -199,4 +199,5 @@ https://thvip.site/360/177/index.m3u8
 https://tth.vn/Zpfc
 #EXTINF:0 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7 HD
 https://thvip.site/360/201/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_fashiontv_ver2.png" group-title="FASHION",Fashion TV Midnight
+https://tth.vn/RcdX
