@@ -201,3 +201,7 @@ https://tth.vn/Zpfc
 https://thvip.site/360/201/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_fashiontv_ver2.png" group-title="FASHION",Fashion TV Midnight
 https://tth.vn/RcdX
+#EXTINF:-1 tvg-logo="http://gg.gg/GlobalFashionChannel_png" group-title="FASHION",Global Fashion Channel
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=626
+#EXTINF:-1 tvg-logo="https://rebrand.ly/Billiard_Tv/logo/png" group-title="SPORTS", Billiard Tv
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
