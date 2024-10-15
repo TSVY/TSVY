@@ -185,9 +185,7 @@ udp://@225.1.1.112:30120
 udp://@225.1.1.139:30120
 
 
-#EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/BTV5_05-03-2023.png/revision/latest?cb=20230511043715&path-prefix=vi", ON SPORTS ACTION - BTV5 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://tth.vn/Zpfc
+
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_fashiontv_ver2.png" group-title="FASHION",Fashion TV Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="SPORTS",Sony Sports 1 HD
